@@ -16,7 +16,7 @@ Before you apply to add your device into our list of official devices, you shoul
 
 7. You should have some basic knowledge of reading logcats and managing most device releated errors/bugs
 
-8. XDA threads are recommended but not mandatory 
+8. XDA threads are optional
 
 9. You should release an unofficial build and **MUST** attach a link in the maintainership form
 
