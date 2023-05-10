@@ -12,7 +12,7 @@ Before you apply to add your device into our list of official devices, you shoul
 
 5. You **MUST** be SELinux enforcing.
 
-6. Prebuilt kernels are only allowed **if your device does not have proper kernel sources**., You **MUSTN'T** ship a prebuilt kernel if you have working kernel sources available just because you save 5 minutes of build time.
+6. Prebuilt kernels are only allowed **if your device does not have proper kernel sources**.
 
 7. You should have some basic knowledge of reading logcats and managing most device releated errors/bugs
 
@@ -20,7 +20,7 @@ Before you apply to add your device into our list of official devices, you shoul
 
 9. You should release an unofficial build and **MUST** attach a link in the maintainership form
 
-10. You **MUST** meet all requirements as mentioned [here](requirements.md).
+10. You **MUST** meet all requirements as mentioned [here](devicereq.md).
 
 If all is well, you may apply [here](https://forms.gle/YgMdMCdR68fqgGaR6)
 

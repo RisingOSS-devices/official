@@ -24,6 +24,10 @@
 * Realme:
     1. 5 Pro (RMX1971)
 
+* Samsung:
+    1. Galaxy A52 4G (a52q)
+    2. Galaxy A72 4G (a72q)
+
 * Xiaomi/Redmi/Mi:
     1. 11 Lite 5G NE (lisa) 
     2. Mi A3/CC9e (laurel_sprout)
