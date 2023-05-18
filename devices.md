@@ -22,6 +22,8 @@
     2. 6T (enchilada)
     3. 8 (instantnoodle)
     4. 8 Pro (instantnoodlep)
+    5. 8T (kebab)
+    6. 9R (lemonades)
 
 * POCO:
     1. M3 (chime)
