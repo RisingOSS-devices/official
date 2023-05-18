@@ -49,4 +49,5 @@
     10. Redmi Note 7 Pro (violet)
     11. Redmi Note 8 (ginkgo)
     12. Redmi Note 8T (willow)
-    13. Redmi Note 11 Pro 5G (veux)
+    13. Redmi Note 8T (willow)
+    14. Redmi Note 11 Pro 5G (veux)
