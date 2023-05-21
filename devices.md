@@ -1,5 +1,5 @@
 # Officially supported devices
-
+-  the divider( "|" ) means what codename it use
 * Asus:
     1. Max Pro M1 (X00TD)
 
@@ -22,13 +22,14 @@
     2. 6T (enchilada)
     3. 8 (instantnoodle)
     4. 8 Pro (instantnoodlep)
-    5. 8T (kebab)
-    6. 9R (lemonades)
+    5. 8T (kebab | lemonkebab)
+    6. 9R (lemonades | lemonkebab)
 
 * POCO:
-    1. M3 (chime)
-    2. X3 Pro (vayu)
-    3. X4 Pro 5G (veux)
+    1. M2 Pro (gram | miatoll)
+    2. M3 (citrus | chime)
+    3. X3 Pro (vayu)
+    4. X4 Pro 5G (peux | veux)
 
 * Realme:
     1. 5 Pro (RMX1971)
@@ -43,13 +44,17 @@
     2. Mi A3/CC9e (laurel_sprout)
     3. Mi 9T Pro (raphael)
     4. Redmi 7 (onclite)
-    5. Redmi 9T (chime)
+    5. Redmi 9T (lime | chime)
     6. Redmi 10C (fog)
     7. Redmi K20 Pro (raphael)
     8. Redmi Note 4X (mido)
     9. Redmi Note 7 (lavender)
     10. Redmi Note 7 Pro (violet)
     11. Redmi Note 8 (ginkgo)
-    12. Redmi Note 8T (willow)
-    13. Redmi Note 8T (willow)
-    14. Redmi Note 11 Pro 5G (veux)
+    12. Redmi Note 8 Pro (begonia)
+    13. Redmi Note 8T (willow | ginkgo)
+    14. Redmi Note 9 Pro (joyeuse | curtana)
+    15. Redmi Note 9 Pro Max (excalibur | miatoll)
+    16. Redmi Note 9S (curtana | miatoll)
+    17. Redmi Note 10 Lite (curtana | miatoll)
+    18. Redmi Note 11 Pro 5G (veux)
