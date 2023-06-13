@@ -1,5 +1,5 @@
 # Officially supported devices
--  the divider( "|" ) means what codename it use
+-  the divider( "|" ) means what device/unified codename it use
 * Asus:
     1. Max Pro M1 (X00TD)
 
@@ -32,8 +32,11 @@
     4. X4 Pro 5G (peux | veux)
 
 * Realme:
+    3. 5 (RMX1911 | r5x)
+    4. 5i (RMX2030 | r5x)
     1. 5 Pro (RMX1971)
-    2. X50 Pro 5G (bladerunner)
+    6. 5s (RMX1927 | r5x)
+    2. X50 Pro 5G (bladerunner | RMX2076L1)
 
 * Samsung:
     1. Galaxy A52 4G (a52q)
