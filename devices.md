@@ -32,11 +32,11 @@
     4. X4 Pro 5G (peux | veux)
 
 * Realme:
-    3. 5 (RMX1911 | r5x)
-    4. 5i (RMX2030 | r5x)
-    1. 5 Pro (RMX1971)
-    6. 5s (RMX1927 | r5x)
-    2. X50 Pro 5G (bladerunner | RMX2076L1)
+    1. 5 (RMX1911 | r5x)
+    2. 5i (RMX2030 | r5x)
+    3. 5 Pro (RMX1971)
+    4. 5s (RMX1927 | r5x)
+    5. X50 Pro 5G (bladerunner | RMX2076L1)
 
 * Samsung:
     1. Galaxy A52 4G (a52q)
