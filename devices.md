@@ -26,10 +26,9 @@
     6. 9R (lemonades | lemonkebab)
 
 * POCO:
-    1. M2 Pro (gram | miatoll)
-    2. M3 (citrus | chime)
-    3. X3 Pro (vayu)
-    4. X4 Pro 5G (peux | veux)
+    1. M3 (citrus | chime)
+    2. X3 Pro (vayu)
+    3. X4 Pro 5G (peux | veux)
 
 * Realme:
     1. 5 (RMX1911 | r5x)
@@ -56,8 +55,4 @@
     11. Redmi Note 8 (ginkgo)
     12. Redmi Note 8 Pro (begonia)
     13. Redmi Note 8T (willow | ginkgo)
-    14. Redmi Note 9 Pro (joyeuse | curtana)
-    15. Redmi Note 9 Pro Max (excalibur | miatoll)
-    16. Redmi Note 9S (curtana | miatoll)
-    17. Redmi Note 10 Lite (curtana | miatoll)
-    18. Redmi Note 11 Pro 5G (veux)
+    14. Redmi Note 11 Pro 5G (veux)
