@@ -30,6 +30,7 @@
     2. M3 (citrus | chime)
     3. X3 Pro (vayu)
     4. X4 Pro 5G (peux | veux)
+    5. X5 Pro 5G (redwood)
 
 * Realme:
     1. 5 (RMX1911 | r5x)
