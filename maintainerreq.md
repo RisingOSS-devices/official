@@ -22,6 +22,6 @@ Before you apply to add your device into our list of official devices, you shoul
 
 10. You **MUST** meet all requirements as mentioned [here](devicereq.md).
 
-If all is well, you may apply [here](https://forms.gle/YgMdMCdR68fqgGaR6)
+If all is well, you may apply [here](https://github.com/RisingOSS-devices/official/issues/new/choose)
 
-If you have any doubts/questions, make sure to contact the team on [Our Telegram Group](https://t.me/riceDroidsupport)
+If you have any doubts/questions, make sure to contact the team on [Our Telegram Group](https://t.me/RisingOSG)
