@@ -12,7 +12,9 @@
     1. V50 ThinQ (flashlmdd)
 
 * Motorola:
-    1. G7 (river)
+    1. G32 (devon)
+    2. G42 (hawao)
+    3. G52 (rhode)
 
 * Nothing:
     1. Phone 1 (spacewar)
