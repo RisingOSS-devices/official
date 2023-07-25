@@ -1,4 +1,4 @@
-# Officially supported devices
+# Officlly supported devices
 -  the divider( "|" ) means what device/unified codename it use
 * Asus:
     1. Max Pro M1 (X00TD)
@@ -63,3 +63,4 @@
     15. Redmi Note 9S (curtana | miatoll)
     16. Redmi Note 10 Lite (curtana | miatoll)
     17. Redmi Note 11 Pro 5G (veux)
+    18. Xiaomi Mi A3 (laurel_sprout)
