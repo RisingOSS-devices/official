@@ -4,9 +4,10 @@
     1. Max Pro M1 (X00TD)
 
 * Google:
-    1. Pixel 6a (bluejay)
-    2. Pixel 7 (panther)
-    3. Pixel 7 Pro (cheetah)
+    1. Pixel 4a (sunfish)
+    2. Pixel 6a (bluejay)
+    3. Pixel 7 (panther)
+    4. Pixel 7 Pro (cheetah)
 
 * LGE:
     1. V50 ThinQ (flashlmdd)
