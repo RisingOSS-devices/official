@@ -11,6 +11,11 @@ assignees: [eun0115, blurzyy]
 Your device name and codename
 ```
 
+## Email address
+```
+For contact purposes
+```
+
 ## Device tree sources
 <!--
 * Must be public on GitHub/GitLab
