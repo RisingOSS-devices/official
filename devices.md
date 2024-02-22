@@ -1,65 +1,45 @@
-# Officially supported devices
--  the divider( "|" ) means what device/unified codename it use
-* Asus:
-    1. Max Pro M1 (X00TD)
+# Officially Supported devices
+  the divider( "|" ) means what device/unified codename it use
 
-* Google:
-    1. Pixel 6a (bluejay)
-    2. Pixel 7 (panther)
-    3. Pixel 7 Pro (cheetah)
+* ASUS
+1. Asus Zenfone Max Pro M1 (X00TD)
 
-* LGE:
-    1. V50 ThinQ (flashlmdd)
+* GOOGLE
+1. Pixel 4a (sunfish)
+2. Pixel 6a (bluejay)
+3. Pixel 8 Series (husky, shiba)
+4. Pixel 7 Series (lynx, cheetah, panther)
 
-* Motorola:
-    1. G32 (devon)
-    2. G42 (hawao)
-    3. G52 (rhode)
+* MOTOROLA
+1. Motorola Edge 30 Ultra / X30 Pro CN (eqs) 
+2. Motorola G54 5G (cancunf)
 
-* Nothing:
-    1. Phone 1 (spacewar)
+* ONEPLUS
+1. OnePlus 8 Series (instantnoodle, instantnoodlep, kebab)
+2. Oneplus 6/6t (fajita, enchlida)
 
-* OnePlus:
-    1. 6 (fajita)
-    2. 6T (enchilada)
-    3. 8 (instantnoodle)
-    4. 8 Pro (instantnoodlep)
-    5. 8T (kebab | lemonkebab)
-    6. 9R (lemonades | lemonkebab)
+* POCO
+1. Poco M2 Pro (gram | miatoll)
+2. Poco F3/ Mi 11x (alioth)
+3. Poco F5/ Redmi Note 12 Turbo (marble) 
+4. Pocophone F1 (beryllium)
+5. Poco X3 pro (vayu)
+5. Poco X5 pro (redwood)
 
-* POCO:
-    1. M2 Pro (gram | miatoll)
-    2. M3 (citrus | chime)
-    3. X3 Pro (vayu)
-    4. X4 Pro 5G (peux | veux)
-    5. X5 Pro 5G (redwood)
+* REALME
+1. Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G 
+2. Realme X50 Pro 5G (bladerunner)
+3. Realme Gt neo2 (bitra)
 
-* Realme:
-    1. 5 (RMX1911 | r5x)
-    2. 5i (RMX2030 | r5x)
-    3. 5 Pro (RMX1971)
-    4. 5s (RMX1927 | r5x)
-    5. X50 Pro 5G (bladerunner | RMX2076L1)
-
-* Samsung:
-    1. Galaxy A52 4G (a52q)
-    2. Galaxy A72 4G (a72q)
-
-* Xiaomi/Redmi/Mi:
-    1. 11 Lite 5G NE (lisa) 
-    2. Mi 9T Pro (raphael)
-    3. Redmi 7 (onclite)
-    4. Redmi 9T (lime | chime)
-    5. Redmi 10C (fog)
-    6. Redmi K20 Pro (raphael)
-    7. Redmi Note 4X (mido)
-    8. Redmi Note 7 (lavender)
-    9. Redmi Note 7 Pro (violet)
-    10. Redmi Note 8 (ginkgo)
-    11. Redmi Note 8 Pro (begonia)
-    12. Redmi Note 8T (willow | ginkgo)
-    13. Redmi Note 9 Pro (joyeuse | curtana)
-    14. Redmi Note 9 Pro Max (excalibur | miatoll)
-    15. Redmi Note 9S (curtana | miatoll)
-    16. Redmi Note 10 Lite (curtana | miatoll)
-    17. Redmi Note 11 Pro 5G (veux)
+* XIAOMI/REDMI
+1. Redmi Note 7 (lavender)
+2. Redmi Note 7 Pro (violet)
+3. Redmi Note 8 Pro (begonia)
+4. Redmi Note 9 pro (gaugin | miatoll)
+5. Redmi Note 9 Pro Max (excalibur | miatoll)
+6. Redmi Note 9S (curtana | miatoll)
+7. Redmi Note 10 Lite (curtana | miatoll)
+8. Redmi Note 10 Pro/Max (sweet | sweetin)
+9. Redmi Note 12 4g (tapas/topaz)
+10. Redmi K20 Pro/Mi 9T Pro (raphael)
+11. Redmi K40 (alioth)
