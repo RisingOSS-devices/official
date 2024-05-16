@@ -21,11 +21,12 @@
 * POCO
 1. Poco M2 Pro (gram | miatoll)
 2. Poco F3/ Mi 11x (alioth)
-3. Poco F5/ Redmi Note 12 Turbo (marble) 
-4. Pocophone F1 (beryllium)
-5. Poco X3 NFC (surya)
-6. Poco X3 pro (vayu)
-7. Poco X5 pro (redwood)
+3. Poco F4 (munch)
+4. Poco F5/ Redmi Note 12 Turbo (marble) 
+5. Pocophone F1 (beryllium)
+6. Poco X3 NFC (surya)
+7. Poco X3 pro (vayu)
+8. Poco X5 pro (redwood)
 
 * REALME
 1. Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G 
