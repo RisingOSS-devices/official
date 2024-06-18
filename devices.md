@@ -43,6 +43,7 @@
 7. Redmi Note 9S (curtana | miatoll)
 8. Redmi Note 10 Lite (curtana | miatoll)
 9. Redmi Note 10 Pro/Max (sweet | sweetin)
-10. Redmi Note 12 4g (tapas/topaz)
+10. Redmi Note 12 4G (tapas/topaz)
+11. Redmi Note 13 4G (sapphire/sapphiren)
 11. Redmi K20 Pro/Mi 9T Pro (raphael)
 12. Redmi K40 (alioth)
