@@ -47,3 +47,4 @@
 11. Redmi Note 13 4G (sapphire/sapphiren)
 11. Redmi K20 Pro/Mi 9T Pro (raphael)
 12. Redmi K40 (alioth)
+13. Xiaomi 11 Lite 5G NE (lisa)
