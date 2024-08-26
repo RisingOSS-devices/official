@@ -33,6 +33,9 @@
 2. Realme X50 Pro 5G (bladerunner)
 3. Realme Gt neo2 (bitra)
 
+* TECNO
+1. Tecno Pova 4 Pro (LG8n)
+
 * XIAOMI/REDMI
 1. Redmi Note 7 (lavender)
 2. Redmi Note 7 Pro (violet)
