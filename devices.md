@@ -5,10 +5,11 @@
 1. Asus Zenfone Max Pro M1 (X00TD)
 
 * GOOGLE
-1. Pixel 4a (sunfish)
-2. Pixel 6a (bluejay)
-3. Pixel 8 Series (husky, shiba)
-4. Pixel 7 Series (lynx, cheetah, panther)
+1. Pixel 2 Series (walleye, taimen)
+2. Pixel 4a (sunfish)
+3. Pixel 6a (bluejay)
+4. Pixel 8 Series (husky, shiba)
+5. Pixel 7 Series (lynx, cheetah, panther)
 
 * MOTOROLA
 1. Motorola Edge 30 Ultra / X30 Pro CN (eqs) 
